@@ -1,0 +1,14 @@
+body  {
+    text-align: center;
+}
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+a:active {
+    background-color: brown;
+    color: darkgreen;
+}
+html {
+    scroll-behavior: smooth;
+}
